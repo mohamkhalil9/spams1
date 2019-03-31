@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("561989007291187231")
 setInterval(function() {
-channel.send(` عدوي بقليش بيضه ```<>The Best Spamer @!                Mohamad_Doleh .#6334``` `);
+channel.send(`<>The Best Spamer @!                Mohamad_Doleh .#6334<> ||<>The Best Spamer @!                Mohamad_Doleh .#6334<>|| `);
 }, 30)
 })
 
